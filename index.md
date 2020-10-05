@@ -16,7 +16,7 @@ ConnectWise - $5
 
 [Github site](https://shadow1python.github.io/MyDesk/)
 
-[Download]([Download]https://github.com/shadow1Python/MyDesk/releases/tag/v2.0))
+[Download](https://github.com/shadow1Python/MyDesk/releases/tag/v2.0))
 
 
 **Building** 
