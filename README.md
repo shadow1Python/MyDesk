@@ -9,3 +9,7 @@ You can also purchase the RemotePC version for $5 at shadow1#6244
 You can purchase the ChromeRemoteDesktop version for $5 at shadow1#6244
 
 You can purchase ConnectWise version for $5 at shadow1#6244
+
+You can purchase any 2 for $13 at shadow1#6244
+
+Buy 4 get the last free!
