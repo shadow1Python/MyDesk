@@ -1,4 +1,4 @@
-# SaberService
+# MyDesk
 My Open Source Anydesk IP Resolver, Know exactly who is connecting to your pc. Please DM me at: shadow1#6244 for any questions.
 You can also Pay for any of these alternative IP resolvers also programmed me (In other respective languages depending)
 
