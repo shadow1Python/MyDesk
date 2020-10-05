@@ -12,7 +12,7 @@ ConnectWise - $5
 
 *Buy 2 or more and we can discuss a bundle depending*
 
-|Buy 3 get the last free! |
+**Buy 3 get the last free**
 
 [join my server](https://discord.com/invite/6B3s74H)
 
