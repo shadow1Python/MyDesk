@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# SaberService
+My Open Source Anydesk IP Resolver. Please DM me at: shadow1#6244
+You can also Pay for any of these alternative IP resolvers also programmed me (In other respective languages depending)
+Teamviewer - $10
+RemotePC - $5
+ChromeRemoteDesktop - $5
+ConnectWise - $5
 
-You can use the [editor on GitHub](https://github.com/shadow1Python/MyDesk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Buy 2 or more and we can discuss a bundle depending*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[join my server](https://discord.com/invite/6B3s74H)
 
-### Markdown
+**PROJECT**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github respritory](https://github.com/shadow1Python/MyDesk)
 
-```markdown
-Syntax highlighted code block
+[Github site](https://shadow1python.github.io/MyDesk/)
 
-# Header 1
-## Header 2
-### Header 3
+[Download]([Download]https://github.com/shadow1Python/MyDesk/releases/tag/v2.0))
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**Building** 
 
-**Bold** and _Italic_ and `Code` text
+*Programmed in Python*
 
-[Link](url) and ![Image](src)
-```
+**LICENSING** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*This respritory is under the* [MIT](https://github.com/shadow1Python/MyDesk/blob/main/LICENSE) *License*
 
-### Jekyll Themes
+**CREATORS NOTE:**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shadow1Python/MyDesk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you for downloading my new open source project!
