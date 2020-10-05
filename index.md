@@ -1,9 +1,13 @@
 # SaberService
 My Open Source Anydesk IP Resolver. Please DM me at: shadow1#6244
 You can also Pay for any of these alternative IP resolvers also programmed me (In other respective languages depending)
+
 Teamviewer - $10
+
 RemotePC - $5
+
 ChromeRemoteDesktop - $5
+
 ConnectWise - $5
 
 *Buy 2 or more and we can discuss a bundle depending*
