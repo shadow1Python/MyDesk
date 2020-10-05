@@ -1,4 +1,4 @@
-# SaberService
+# MyDesk
 My Open Source Anydesk IP Resolver. Please DM me at: shadow1#6244
 You can also Pay for any of these alternative IP resolvers also programmed me (In other respective languages depending)
 
