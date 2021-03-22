@@ -14,7 +14,6 @@ ConnectWise - $5
 
 **Buy 3 get the last free**
 
-[join my server](https://discord.com/invite/6B3s74H)
 
 **PROJECT**
 
