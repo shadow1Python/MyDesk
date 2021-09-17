@@ -1,4 +1,4 @@
-# Hey lol this was made by Shadow1/shadow1Python
+
 
 import subprocess, colorama, requests, base64, os
 
