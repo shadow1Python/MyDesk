@@ -2,7 +2,7 @@
 
 import subprocess, colorama, requests, base64, os
 
-os.system('@title Mydesk 2.0 ^| AnyDesk IP Address Resolver ^| by shadow1')
+os.system('@title Mydesk 2.1 ^| AnyDesk IP Address Grabber ^| by shadow1')
 
 from colorama import Fore, Style
 
