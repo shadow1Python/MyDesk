@@ -17,7 +17,7 @@ ConnectWise - $5
 
 **PROJECT**
 
-[Github respritory](https://github.com/shadow1Python/MyDesk)
+[Github repo](https://github.com/shadow1Python/MyDesk)
 
 [Github site](https://shadow1python.github.io/MyDesk/)
 
